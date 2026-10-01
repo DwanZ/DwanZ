@@ -17,4 +17,4 @@ Native Android, Wear OS, and Kotlin Multiplatform — Clean Architecture, MVI/MV
 `MVP → MVVM → MVI → Compose`
 
 ## Links
-- LinkedIn: [dwan-zaid-cordoba-celis](https://www.linkedin.com/in/dwan-zaid-cordoba-celis-42aa43134)
+- LinkedIn: [Dwan Cordoba](https://www.linkedin.com/in/dwan-zaid-cordoba-celis-42aa43134)
