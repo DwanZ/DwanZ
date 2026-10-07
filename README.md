@@ -11,7 +11,9 @@ Native Android, Wear OS, and Kotlin Multiplatform — Clean Architecture, MVI/MV
 - Coroutines · Flow · REST · gRPC
 - FinTech / Banking · Streaming · Logistics & Mobility
 
-## Featured project
+## Featured projects
+**[offlinefirstapp](https://github.com/DwanZ/offlinefirstapp)** — Insignia Empresarial: offline-first financial dashboard (Clean Architecture, Compose, Room outbox, WorkManager sync, Hilt, CI).
+
 **[archMigrationExample](https://github.com/DwanZ/archMigrationExample)** — Pokédex sample that documents a real evolution:
 
 `MVP → MVVM → MVI → Compose`
