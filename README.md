@@ -12,7 +12,7 @@ Native Android, Wear OS, and Kotlin Multiplatform — Clean Architecture, MVI/MV
 - FinTech / Banking · Streaming · Logistics & Mobility
 
 ## Featured projects
-**[offlinefirstapp](https://github.com/DwanZ/offlinefirstapp)** — Insignia Empresarial: offline-first financial dashboard (Clean Architecture, Compose, Room outbox, WorkManager sync, Hilt, CI).
+**[offlinefirstapp](https://github.com/DwanZ/offlinefirstapp)** — Offline-first financial dashboard (Clean Architecture, Compose, Room outbox, WorkManager sync, Hilt, CI).
 
 **[archMigrationExample](https://github.com/DwanZ/archMigrationExample)** — Pokédex sample that documents a real evolution:
 
