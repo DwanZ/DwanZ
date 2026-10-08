@@ -12,6 +12,8 @@ Native Android, Wear OS, and Kotlin Multiplatform — Clean Architecture, MVI/MV
 - FinTech / Banking · Streaming · Logistics & Mobility
 
 ## Featured projects
+**[compose-finance-charts](https://github.com/DwanZ/compose-finance-charts)** — Compose Multiplatform finance charts library (Android + iOS): interactive line & candlestick charts, design tokens, Canvas gestures, JitPack.
+
 **[offlinefirstapp](https://github.com/DwanZ/offlinefirstapp)** — Offline-first financial dashboard (Clean Architecture, Compose, Room outbox, WorkManager sync, Hilt, CI).
 
 **[archMigrationExample](https://github.com/DwanZ/archMigrationExample)** — Pokédex sample that documents a real evolution:
