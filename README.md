@@ -11,6 +11,9 @@ Native Android, Wear OS, and Kotlin Multiplatform — Clean Architecture, MVI/MV
 - FinTech / Banking · Streaming · Logistics & Mobility
 
 ## Featured projects
+
+**[Multi-protocol api benchmark](https://github.com/DwanZ/multi-protocol-api-benchmark)** — Checking impact of data consumption with different technologies.
+
 **[colombiaApp](https://github.com/DwanZ/colombiaApp)** — Educational Android app about Colombia (API Colombia + MapLibre): multi-module Clean Architecture, Compose Material 3, interactive department map, touristic places, and presidents.
 
 **[compose-finance-charts](https://github.com/DwanZ/compose-finance-charts)** — Compose Multiplatform finance charts library (Android + iOS): interactive line & candlestick charts, design tokens, Canvas gestures, JitPack.
